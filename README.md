@@ -39,8 +39,8 @@ The goal of this analysis is to identify **inflation patterns, volatility, and k
 
 ---
 
-## 📊 Dashboard Preview
-![CPI Case study](dashboard.png)
+## 📊 Case study Preview
+Kindly Checkout the Case Study File 
 
 ---
 
